@@ -1,0 +1,39 @@
+#EXTM3U
+
+# Minha TV Brasil — playlist inicial
+# Somente transmissões públicas encontradas em fontes abertas.
+# Os links podem mudar ou exigir acesso regional; teste no BOB antes de considerar definitivos.
+
+#EXTINF:-1 tvg-name="TV Câmara" group-title="01 - TV BRASIL | Públicos",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-name="TV Senado" group-title="01 - TV BRASIL | Públicos",TV Senado
+https://tv.senado.leg.br/hls/tv-senado.m3u8
+
+#EXTINF:-1 tvg-name="TV Brasil" group-title="01 - TV BRASIL | Públicos",TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+
+#EXTINF:-1 tvg-name="TV Cultura" group-title="01 - TV BRASIL | Cultura e Educação",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+
+# As próximas categorias serão preenchidas apenas com links de reprodução autorizados.
+#EXTINF:-1 group-title="02 - FILMES | DUBLADOS",[Adicionar conteúdo autorizado]
+#EXTINF:-1 group-title="03 - FILMES | LEGENDADOS",[Adicionar conteúdo autorizado]
+#EXTINF:-1 group-title="04 - LANÇAMENTOS",[Adicionar conteúdo autorizado]
+#EXTINF:-1 group-title="05 - FILMES | AÇÃO E AVENTURA",[Adicionar conteúdo autorizado]
+#EXTINF:-1 group-title="05 - FILMES | ANIMAÇÃO",[Adicionar conteúdo autorizado]
+#EXTINF:-1 group-title="05 - FILMES | FICÇÃO CIENTÍFICA",[Adicionar conteúdo autorizado]
+#EXTINF:-1 group-title="05 - FILMES | COMÉDIA",[Adicionar conteúdo autorizado]
+#EXTINF:-1 group-title="05 - FILMES | DRAMA",[Adicionar conteúdo autorizado]
+#EXTINF:-1 group-title="05 - FILMES | TERROR E SUSPENSE",[Adicionar conteúdo autorizado]
+#EXTINF:-1 group-title="06 - SÉRIES | NETFLIX",[Adicionar conteúdo autorizado]
+#EXTINF:-1 group-title="06 - SÉRIES | APPLE TV",[Adicionar conteúdo autorizado]
+#EXTINF:-1 group-title="06 - SÉRIES | PRIME VIDEO",[Adicionar conteúdo autorizado]
+#EXTINF:-1 group-title="06 - SÉRIES | HULU",[Adicionar conteúdo autorizado]
+#EXTINF:-1 group-title="06 - SÉRIES | DISNEY+",[Adicionar conteúdo autorizado]
+#EXTINF:-1 group-title="06 - SÉRIES | PARAMOUNT+",[Adicionar conteúdo autorizado]
+#EXTINF:-1 group-title="06 - SÉRIES | HBO MAX",[Adicionar conteúdo autorizado]
+#EXTINF:-1 group-title="07 - PRODUÇÕES BRASILEIRAS | SÉRIES E NOVELAS",[Adicionar conteúdo autorizado]
+#EXTINF:-1 group-title="08 - ANIMES",[Adicionar conteúdo autorizado]
+#EXTINF:-1 group-title="09 - DESENHOS E INFANTIL",[Adicionar conteúdo autorizado]
+#EXTINF:-1 group-title="10 - DOCUMENTÁRIOS",[Adicionar conteúdo autorizado]
